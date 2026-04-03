@@ -1,0 +1,1 @@
+print("Iniciando ingestão da camada Bronze...")
