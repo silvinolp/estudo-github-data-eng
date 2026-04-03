@@ -1,1 +1,0 @@
-Dados crus da API
